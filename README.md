@@ -52,8 +52,8 @@ Hi I'm Jimmy. Welcome to my GitHub!<br>I focus on backend and app development.
 
 ## GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=af19git5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=af19git5&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=af19git5&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=af19git5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=af19git5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔥 Top Contributed Repo
