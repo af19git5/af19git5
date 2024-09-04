@@ -5,16 +5,16 @@
     <br>
     <a href="https://www.facebook.com/profile.php?id=100000427969629">
         <img width="32px" alt="Facebook"  src="images/facebook.png"/>
-    </a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/af19git5">
         <img width="32px" alt="Instagram" src="images/instagram.png"/>
-    </a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.threads.net/@af19git5">
         <img width="32px" alt="Threads" src="images/threads.png"/>
-    </a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://x.com/af19git5">
         <img width="32px" alt="X" src="images/x.png"/>
-    </a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://paypal.me/af19git5">
         <img width="32px" alt="Donate" src="images/coffee.png"/>
     </a>
