@@ -20,9 +20,6 @@
     </a>
     <br>
     <br>
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=af19git5&color=3&icon=4"  alt="Number of views"/>
-    </a>
 </p>
 
 ## About Me:
