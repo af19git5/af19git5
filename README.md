@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg">
+    <a>
       <img src="images/banner.svg"  alt="banner"/>
     </a>
     <br>
