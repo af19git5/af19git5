@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30F700&size=40&center=true&vCenter=true&width=600&height=120&lines=Hi+I'm+Jimmy.;+Welcome+to+my+GitHub!"  alt="banner"/>
+      <img src="images/banner.svg"  alt="banner"/>
     </a>
     <br>
     <a href="https://www.facebook.com/profile.php?id=100000427969629">
