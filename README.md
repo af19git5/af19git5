@@ -37,7 +37,8 @@ Hi I'm Jimmy. Welcome to my GitHub!<br>I focus on backend and app development.
 ### 🕹️ Framework & Tool
 
 ![Android](https://img.shields.io/badge/ANDROID-%2351B155.svg?style=for-the-badge&logo=android&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin-Multiplatform](https://img.shields.io/badge/KOTLIN_MULTIPLATFORM-%230097F0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring-Boot](https://img.shields.io/badge/spring--boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
